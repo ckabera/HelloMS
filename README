@@ -1,0 +1,2 @@
+Using the namespace MSInterview, so the class library Employees will build to MSInterview.dll.
+You can then add reference from the MSTestInterview Project for testing.
